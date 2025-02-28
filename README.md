@@ -17,7 +17,3 @@ Vous pouvez consulter et exécuter le projet directement sur Google Colab via ce
 
 [LiChess - Colab](https://colab.research.google.com/drive/1Oi3Qobj5O_ELUaw2TEhHJVDpEVilYr3b)
 
-## Auteurs
-
-- Nicolas MARRA
-- Eddine NASRI
